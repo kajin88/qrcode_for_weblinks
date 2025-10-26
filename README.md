@@ -1,5 +1,5 @@
-# qrcode_for_weblinks
-Generate your own QR code image for any weblink
+# QR Code for Web Links
+Generate your own QR code image for any web link
 
 ## Description
 This project provides a simple Python script to generate QR code images for web links. The generated QR codes can be scanned with any QR code reader to quickly access the encoded URL.
